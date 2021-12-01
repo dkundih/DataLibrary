@@ -10,6 +10,8 @@ This repository shows the application of KMeans algorithm in delivery planning.
 # Dijkstra
 This repository shows the application of Dijkstra algorithm in optimal route scanning and visualization of locations on the map in Python.
 
+# A word from the author
+
 <h1 align='center'> Hi!</h1>
  
 <img src='https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/BLUERED_GHiLI.jpg'/>
