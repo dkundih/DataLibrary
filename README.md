@@ -10,6 +10,9 @@ This repository shows the application of KMeans algorithm in delivery planning.
 # Dijkstra
 This repository shows the application of Dijkstra algorithm in optimal route scanning and visualization of locations on the map in Python.
 
+# MonteCarlo
+This repository shows an application of the vandal.MonteCarlo in a data science project and serves as a testing polygon for the vandal.MonteCarlo object changes.
+
 <h1 align='center'> A word from the author </h1>
  
 <img src='https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/BLUERED_GHiLI.jpg'/>
@@ -19,6 +22,8 @@ My name is <b>David Kundih</b> and I am a Master's student of <b>Logistics syste
 </p>
  
 <h4 align='center'>My latest projects:</h4>
+<p align='center'>
+<a href="https://github.com/dkundih/vandal">vandal</p>  
 <p align='center'>
 <a href="https://github.com/dkundih/duality">duality</p>  
 <p align='center'>
