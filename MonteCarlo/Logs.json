@@ -1,0 +1,127 @@
+{
+    "entry": [
+        {
+            "FUNCTION NAME: ": "init",
+            "EXECUTION TIME: ": "0:00:00",
+            "EXECUTED AT: ": "2021-12-28 12:24:47.300304",
+            "MEMORY SIZE: ": "136 bytes"
+        }
+    ]
+}{
+    "entry": [
+        {
+            "FUNCTION NAME: ": "execution",
+            "EXECUTION TIME: ": "0:00:32.259256",
+            "EXECUTED AT: ": "2021-12-28 12:25:19.835561",
+            "MEMORY SIZE: ": "136 bytes"
+        }
+    ]
+}{
+    "entry": [
+        {
+            "FUNCTION NAME: ": "graph",
+            "EXECUTION TIME: ": "0:00:04.680120",
+            "EXECUTED AT: ": "2021-12-28 12:25:24.677422",
+            "MEMORY SIZE: ": "136 bytes"
+        }
+    ]
+}{
+    "entry": [
+        {
+            "FUNCTION NAME: ": "change",
+            "EXECUTION TIME: ": "0:00:00.019006",
+            "EXECUTED AT: ": "2021-12-28 12:25:25.123833",
+            "MEMORY SIZE: ": "136 bytes"
+        }
+    ]
+}{
+    "entry": [
+        {
+            "FUNCTION NAME: ": "risk",
+            "EXECUTION TIME: ": "0:00:16.992837",
+            "EXECUTED AT: ": "2021-12-28 12:25:42.333665",
+            "MEMORY SIZE: ": "136 bytes"
+        }
+    ]
+}{
+    "entry": [
+        {
+            "FUNCTION NAME: ": "statistics",
+            "EXECUTION TIME: ": "0:00:00.001998",
+            "EXECUTED AT: ": "2021-12-28 12:25:42.363666",
+            "MEMORY SIZE: ": "136 bytes"
+        }
+    ]
+}{
+    "entry": [
+        {
+            "FUNCTION NAME: ": "statistics",
+            "EXECUTION TIME: ": "0:00:00.001000",
+            "EXECUTED AT: ": "2021-12-28 12:25:42.640939",
+            "MEMORY SIZE: ": "136 bytes"
+        }
+    ]
+}{
+    "entry": [
+        {
+            "FUNCTION NAME: ": "histogram",
+            "EXECUTION TIME: ": "0:00:56.186164",
+            "EXECUTED AT: ": "2021-12-28 12:26:38.826103",
+            "MEMORY SIZE: ": "136 bytes"
+        }
+    ]
+}{
+    "entry": [
+        {
+            "FUNCTION NAME: ": "statistics",
+            "EXECUTION TIME: ": "0:00:00.002013",
+            "EXECUTED AT: ": "2021-12-28 12:26:38.857698",
+            "MEMORY SIZE: ": "136 bytes"
+        }
+    ]
+}{
+    "entry": [
+        {
+            "FUNCTION NAME: ": "histogram",
+            "EXECUTION TIME: ": "0:00:55.103027",
+            "EXECUTED AT: ": "2021-12-28 12:27:33.958712",
+            "MEMORY SIZE: ": "136 bytes"
+        }
+    ]
+}{
+    "entry": [
+        {
+            "FUNCTION NAME: ": "string",
+            "EXECUTION TIME: ": "0:00:00",
+            "EXECUTED AT: ": "2021-12-28 12:27:34.036895",
+            "MEMORY SIZE: ": "136 bytes"
+        }
+    ]
+}{
+    "entry": [
+        {
+            "FUNCTION NAME: ": "representation",
+            "EXECUTION TIME: ": "0:00:00",
+            "EXECUTED AT: ": "2021-12-28 12:27:34.177891",
+            "MEMORY SIZE: ": "136 bytes"
+        }
+    ]
+}{
+    "entry": [
+        {
+            "FUNCTION NAME: ": "logs",
+            "EXECUTION TIME: ": "0:00:00",
+            "EXECUTED AT: ": "2021-12-28 12:27:34.320152",
+            "MEMORY SIZE: ": "136 bytes"
+        }
+    ]
+}{
+    "entry": [
+        {
+            "FUNCTION NAME: ": "logs",
+            "EXECUTION TIME: ": "0:00:00",
+            "EXECUTED AT: ": "2021-12-28 12:27:34.562997",
+            "MEMORY SIZE: ": "136 bytes"
+        }
+    ]
+}
