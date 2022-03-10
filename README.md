@@ -19,6 +19,9 @@ This repository contains the DataFrame and Linear Regression Jupyter Notebook fi
 # MonteCarlo
 This repository shows an application of the vandal.MonteCarlo in a data science project and serves as a testing polygon for the vandal.MonteCarlo object changes.
 
+# NeuralNetwork
+This repository shows an application of the Neural Network algorithm on top of the cancer data with >95% accuracy.
+
 <h1 align='center'> A word from the author </h1>
  
 <img src='https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/BLUERED_GHiLI.jpg'/>
