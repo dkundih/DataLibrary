@@ -7,6 +7,9 @@ Plotting the historical data of Zagreb stock. Adjust the import folder to target
 # Dijkstra
 This repository shows the application of Dijkstra algorithm in optimal route scanning and visualization of locations on the map in Python.
 
+# Foreo
+This repository shows the application of data science methods in order to determine demand of the products.
+
 # HEP analysis
 This repository shows the data analysis of croatian state-owned company Hrvatska elektroprivreda d.d., analysing the official financial reports with advanced statistics.
 
