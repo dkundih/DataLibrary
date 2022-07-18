@@ -1,0 +1,1 @@
+print('This library has no option for main yet.')
