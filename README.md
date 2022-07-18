@@ -1,3 +1,6 @@
+# M folders
+Various projects originally used in Master's thesis (Digital transformation of traffic and logistics systems - David Kundih, University North, 2022.)
+
 # ATM analysis
 This repository includes the code of data analysis of an ATM history from one Croatian corporation. In order to keep the company and customers private, access to the original file is denied for public. The main goal of this research is to identify defects of an ATM, detected by returning the values of 0.51 kuna and more which is a direct result of lack of cash in the ATM for paying bills.
 
@@ -7,7 +10,7 @@ Plotting the historical data of Zagreb stock. Adjust the import folder to target
 # Dijkstra
 This repository shows the application of Dijkstra algorithm in optimal route scanning and visualization of locations on the map in Python.
 
-# Foreo
+# Demand planning
 This repository shows the application of data science methods in order to determine demand of the products.
 
 # HEP analysis
@@ -16,24 +19,24 @@ This repository shows the data analysis of croatian state-owned company Hrvatska
 # Kmeans
 This repository shows the application of KMeans algorithm in delivery planning.
 
-# LinearRegression
-This repository contains the DataFrame and Linear Regression Jupyter Notebook file with the code for prediction of Transport costs based on the the weight of an unit. Adjust the import folder to target the attached file in order to work properly.
+# Linear regression
+This repository contains the DataFrame and Linear regression Jupyter Notebook file with the code for prediction of transport costs based on the the weight of an unit. Adjust the import folder to target the attached file in order to work properly.
 
-# MonteCarlo
+# Monte Carlo
 This repository shows an application of the vandal.MonteCarlo in a data science project and serves as a testing polygon for the vandal.MonteCarlo object changes.
 
-# NeuralNetwork_Cancer
-This repository shows an application of the Neural Network algorithm on top of the cancer data with >95% accuracy.
+# Neural Network_Cancer
+This repository shows an application of the Neural network algorithm on top of the cancer data with >95% accuracy.
 
-# NeuralNetwork_Transport
-This repository shows an application of the Neural Network algorithm on top of the public transport mode decision based on the individual's characteristics.
+# Neural Network_Transport
+This repository shows an application of the Neural network algorithm on top of the public transport mode decision based on the individual's characteristics.
 
 <h1 align='center'> A word from the author </h1>
  
 <img src='https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/BLUERED_GHiLI.jpg'/>
 
 <p align='center'>
-My name is <b>David Kundih</b> and I am a Master's student of <b>Logistics systems management</b> at the <b>University North</b>, currently specializing in <b>Digital Transformation of Logistics using Python.</b>
+My name is <b>David Kundih</b> and I am a Master's student of <b>Sustainable mobility and logistics</b> at the <b>University North</b>, currently specializing in <b>Digital transformation of traffic and logistics using Python.</b>
 </p>
  
 <h4 align='center'>My latest projects:</h4>
